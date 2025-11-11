@@ -62,3 +62,5 @@ They must be run locally on your computer.
 Please make sure to download all required files (datasets, notebooks, and scripts) and keep them in the same working directory before running the notebooks.
 If needed, install dependencies using: pip install -r requirements.txt
 
+For a detailed summary of the fraud detection project, see the PDF report here: (docs/Credit Card Fraud Detection Project.pdf)
+
